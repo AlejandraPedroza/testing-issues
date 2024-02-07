@@ -1,13 +1,1 @@
 # testing-issues
-
-one change
-
-another change
-
-another line
-
-how about this one
-
-commit 4
-
-final changes
